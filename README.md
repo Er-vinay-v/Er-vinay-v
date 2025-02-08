@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Er-vinay-v
-- 👀 I’m interested in Java software development engineering
-- 🌱 I’m currently learning  junit, mokito, spring security and microservices
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @Er-vinay-v
+👀 I’m interested in becoming a full-stack Java developer
+🌱 I’m currently working at Mobfountain Media
+💞️ Currently, we are developing a trading application that automates the share market
+📫 Contact me: mrvinayverma100@gmail.com
+😄 Pronouns: Mr. Vinay Verma (He/Him)
+⚡ Fun fact: I love playing cricket, listening to music, practicing coding, and I’m excited to learn new technologies.
 
 <!---
 Er-vinay-v/Er-vinay-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
