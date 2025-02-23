@@ -1,4 +1,4 @@
-👋 Hi, I’m @Er-vinay-v
+👋 Hi, I’m Vinay Verma
 👀 I’m interested in becoming a full-stack Java developer
 🌱 I’m currently working at Mobfountain Media
 💞️ Currently, we are developing a trading application that automates the share market
