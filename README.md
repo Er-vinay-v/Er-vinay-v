@@ -5,7 +5,7 @@
 ---
 
 💼 **Current Role**: Software Developer at [Mobfountain Media](https://mobfountain.com)  
-📍 **Experience**: 1.4+ years in Software Development, 6 months specializing in Full-Stack Development  
+📍 **Experience**: 2+ years in Software Development, 6 months specializing in Full-Stack Development  
 🛠️ **Tech Stack**: Java | Spring Boot | JavaScript | React.js | Node.js | SQL | Python (for trading logic)  
 📊 **Domain**: Financial Technology (FinTech) – Automation, Algo Trading, Real-Time Systems  
 
