@@ -1,50 +1,83 @@
-# 👋 Hello there! I'm Vinay Verma
+# 👋 Hi, I'm Vinay Verma
 
-### 🚀 Full-Stack Java Developer | Software Engineer | Trading Systems Enthusiast
-
----
-
-💼 **Current Role**: Software Developer at [Mobfountain Media](https://mobfountain.com)  
-📍 **Experience**: 2+ years in Software Development, 6 months specializing in Full-Stack Development  
-🛠️ **Tech Stack**: Java | Spring Boot | JavaScript | React.js | Node.js | SQL | Python (for trading logic)  
-📊 **Domain**: Financial Technology (FinTech) – Automation, Algo Trading, Real-Time Systems  
+### 🚀 Full-Stack Java Developer | Backend-Focused Engineer | FinTech & Trading Systems Builder
 
 ---
 
-### 👨‍💻 About Me
+## 💼 Professional Summary
 
-I’m a passionate and forward-thinking developer focused on building scalable, efficient, and intelligent systems. Currently, I’m working on a **real-time trading application** that automates decision-making in the stock market using cutting-edge tech and market logic.
+I’m a results-driven Full-Stack Java Developer with 2+ years of experience building scalable backend systems and real-time applications. I specialize in designing robust APIs, optimizing system performance, and developing intelligent trading systems powered by automation and real-time data streams.
 
-I'm also committed to continuous improvement, exploring system design, backend optimization, and advanced frontend frameworks to strengthen my full-stack capabilities.
-
----
-
-### 🔍 Interests
-- 💡 Backend Architecture & RESTful APIs  
-- 📈 Algo & Automated Trading Systems  
-- 🔁 WebSocket Communication & Real-Time Data  
-- 📚 Learning new frameworks & design patterns  
-- 🎯 Goal: Become a top-tier Java Full-Stack Engineer with strong system design knowledge
+Currently focused on architecting high-performance financial systems with clean design principles and scalable infrastructure.
 
 ---
 
-### 📫 Let’s Connect!
-- ✉️ Email: [mrvinayverma100@gmail.com](mailto:mrvinayverma100@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/vinay-verma-dev](https://www.linkedin.com/in/vinay-verma2/)   
-- 💻 GitHub: [github.com/Er-vinay-v](https://github.com/Er-vinay-v)
+## 🏢 Current Role
+
+**Software Developer** at [Mobfountain Media](https://mobfountain.com)  
+📍 2+ Years in Software Development  
+🔎 6+ Months Focused on Full-Stack Architecture
 
 ---
 
-### ⚡ Fun Facts
-- 🏏 Cricket is my passion off-screen  
-- 🎧 Music keeps me focused  
-- 💻 Coding is not just work—it's my craft  
-- 🔄 Always curious about "how systems scale under load"
+## 🛠 Core Competencies
+
+### 🔹 Backend Development
+- Java, Spring Boot
+- RESTful API Design
+- Microservices Architecture
+- Exception Handling & Global Error Management
+- Authentication & Authorization (JWT)
+
+### 🔹 Frontend Development
+- React.js
+- JavaScript (ES6+)
+- UI Integration with Backend APIs
+- State Management & Real-Time Updates
+
+### 🔹 Databases
+- SQL (MySQL/PostgreSQL)
+- Query Optimization
+- Schema Design
+
+### 🔹 Real-Time & Trading Systems
+- WebSocket Integration
+- Live Market Data Processing
+- Algo Trading Logic
+- Risk & Capital Management Systems
 
 ---
 
-<!---
-Er-vinay-v/Er-vinay-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 Current Focus
 
+🔹 Building a Real-Time Trading Application  
+🔹 Designing Clean System Architecture  
+🔹 Improving Backend Performance & Scalability  
+🔹 Learning Advanced System Design Patterns  
+
+---
+
+## 🎯 Career Vision
+
+To become a top-tier Java Backend & Full-Stack Engineer with strong expertise in system design, distributed systems, and high-performance financial platforms.
+
+---
+
+## 📫 Connect With Me
+
+✉️ Email: mrvinayverma100@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/vinay-verma2/  
+💻 GitHub: https://github.com/Er-vinay-v  
+
+---
+
+## ⚡ Beyond Code
+
+🏏 Cricket Enthusiast  
+🎧 Music Lover  
+📈 Passionate about markets & trading psychology  
+💡 Curious about how systems scale under heavy load  
+
+---
+
+⭐ *“Build systems that scale. Automate what can be automated. Optimize everything.”*
