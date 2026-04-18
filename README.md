@@ -1,83 +1,98 @@
 # 👋 Hi, I'm Vinay Verma
 
-### 🚀 Full-Stack Java Developer | Backend-Focused Engineer | FinTech & Trading Systems Builder
+### 🚀 Java Backend Engineer | Microservices | FinTech & Real-Time Systems
 
 ---
 
-## 💼 Professional Summary
+## 💼 About Me
 
-I’m a results-driven Full-Stack Java Developer with 2+ years of experience building scalable backend systems and real-time applications. I specialize in designing robust APIs, optimizing system performance, and developing intelligent trading systems powered by automation and real-time data streams.
+I’m a backend-focused Java developer with 2+ years of experience building **scalable, high-performance systems** and **real-time applications**.
 
-Currently focused on architecting high-performance financial systems with clean design principles and scalable infrastructure.
-
----
-
-## 🏢 Current Role
-
-**Software Developer** at [Mobfountain Media](https://mobfountain.com)  
-📍 2+ Years in Software Development  
-🔎 6+ Months Focused on Full-Stack Architecture
+* ⚡ Specialized in **Microservices & Event-Driven Architecture**
+* 📊 Built **low-latency trading systems** with real-time data pipelines
+* 🔧 Focused on **performance optimization, system design, and reliability**
+* 🚀 Passionate about building **production-grade backend systems**
 
 ---
 
-## 🛠 Core Competencies
+## 🏢 Experience
 
-### 🔹 Backend Development
-- Java, Spring Boot
-- RESTful API Design
-- Microservices Architecture
-- Exception Handling & Global Error Management
-- Authentication & Authorization (JWT)
+**Software Developer** @ Mobfountain Media
+📍 Noida, India
 
-### 🔹 Frontend Development
-- React.js
-- JavaScript (ES6+)
-- UI Integration with Backend APIs
-- State Management & Real-Time Updates
-
-### 🔹 Databases
-- SQL (MySQL/PostgreSQL)
-- Query Optimization
-- Schema Design
-
-### 🔹 Real-Time & Trading Systems
-- WebSocket Integration
-- Live Market Data Processing
-- Algo Trading Logic
-- Risk & Capital Management Systems
+* Built and scaled **microservices-based trading systems**
+* Developed **secure REST APIs** using Spring Boot & JWT
+* Implemented **Kafka + WebSocket pipelines** for real-time processing
+* Optimized backend performance and reduced API latency
 
 ---
 
-## 📊 Current Focus
+## 🛠 Tech Stack
 
-🔹 Building a Real-Time Trading Application  
-🔹 Designing Clean System Architecture  
-🔹 Improving Backend Performance & Scalability  
-🔹 Learning Advanced System Design Patterns  
+**Backend:**
+Java | Spring Boot | Spring Security | Hibernate | JPA
+
+**Architecture:**
+Microservices | Event-Driven Systems | Distributed Systems
+
+**Real-Time & Messaging:**
+Kafka | WebSocket
+
+**Databases:**
+MySQL | PostgreSQL | MongoDB
+
+**Tools & DevOps:**
+Docker | Jenkins | Git | Maven | Postman
 
 ---
 
-## 🎯 Career Vision
+## 📌 Featured Projects
 
-To become a top-tier Java Backend & Full-Stack Engineer with strong expertise in system design, distributed systems, and high-performance financial platforms.
+### 💰 E-Wallet Microservices System
+
+* Event-driven architecture using Kafka
+* Distributed microservices (User, Wallet, Transaction, Notification)
+* Fault-tolerant and scalable system design
+
+👉 Check it here: https://github.com/Er-vinay-v/E-Wallet-App
+
+---
+
+### 📈 Real-Time Trading Backend
+
+* Live market data processing using WebSocket
+* Automated trading logic & risk management
+* Low-latency execution system
+
+---
+
+## 🧠 What I’m Currently Working On
+
+* 🔹 Designing scalable backend architectures
+* 🔹 Improving system performance & reliability
+* 🔹 Deep diving into system design & distributed systems
+* 🔹 Building production-ready fintech applications
+
+---
+
+## 🎯 Career Focus
+
+To build **high-scale distributed systems** and grow as a backend engineer in **product-based and fintech companies**.
 
 ---
 
 ## 📫 Connect With Me
 
-✉️ Email: mrvinayverma100@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/vinay-verma2/  
-💻 GitHub: https://github.com/Er-vinay-v  
+* 📧 Email: [vinay.ku.verma2002@gmail.com](mailto:vinay.ku.verma2002@gmail.com)
+* 🔗 LinkedIn: linkedin.com/in/vinay-verma2
+* 💻 GitHub: github.com/Er-vinay-v
 
 ---
 
 ## ⚡ Beyond Code
 
-🏏 Cricket Enthusiast  
-🎧 Music Lover  
-📈 Passionate about markets & trading psychology  
-💡 Curious about how systems scale under heavy load  
+🏏 Cricket | 🎧 Music | 📈 Markets & Trading
 
 ---
 
-⭐ *“Build systems that scale. Automate what can be automated. Optimize everything.”*
+⭐ *“Build scalable systems. Optimize performance. Solve real-world problems.”*
